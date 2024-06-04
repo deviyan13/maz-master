@@ -9,7 +9,7 @@
     [Docker Compose](https://docs.docker.com/compose/gettingstarted/)
 
 ## Распаковка архива:
-Распакуйте полученный архив maz-master.zip в удобное место на вашем компьютере.
+Распакуйте полученный архив maz-master-main.zip в удобное место на вашем компьютере.
 
 
 ## Запуск Docker Compose:
