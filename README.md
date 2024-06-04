@@ -5,7 +5,7 @@
 
 ## Установка Docker и Docker Compose:
 Убедитесь, что Docker и Docker Compose установлены на вашем компьютере. Инструкции по установке можно найти на официальных сайтах:
-    [Docker](https://www.docker.com/)
+    [Docker](https://www.docker.com/products/docker-desktop/)
     [Docker Compose](https://docs.docker.com/compose/gettingstarted/)
 
 ## Распаковка архива:
