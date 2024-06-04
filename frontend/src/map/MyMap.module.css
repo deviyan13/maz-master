@@ -1,0 +1,12 @@
+.map { 
+    width: 50%;
+    height: 93%;
+ }
+
+.dot {
+    border-radius: 10px;
+    width: 20px;
+    height: 20px;
+    background-color: white;
+    border-color: #000000;
+}

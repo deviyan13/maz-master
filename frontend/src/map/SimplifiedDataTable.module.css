@@ -1,0 +1,30 @@
+.dataRow{
+    display: inline-flex;
+    margin: 10px;
+
+}
+.columns{
+    display: inline-flex;
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    padding: 5px;
+     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+
+}
+
+.dataName{
+    width:max-content;
+    margin: 5px 5px 0px 0px;
+    color:#262626;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.dataValue{
+    align-items: center;
+    margin: 5px 5px 0px 0px;
+    color:#262626;
+    font-family:'Courier New', Courier, monospace;
+    font-size:14px;
+}

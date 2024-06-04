@@ -1,0 +1,12 @@
+.header {
+    height: 20px;
+    padding: 15px 20px;
+    color: #ffffff;
+    display: flex;
+    align-items: center;
+    background-color: rgba(218, 26, 26, 0.49);
+    font-size: 18px;
+    font-weight: bold;
+    text-transform: uppercase;
+    border-bottom: 5px solid rgba(218, 26, 26, 0.49);
+}
