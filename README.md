@@ -9,11 +9,11 @@
     [Docker Compose](https://docs.docker.com/compose/gettingstarted/)
 
 ## Распаковка архива:
-Распакуйте полученный архив maz-master-main.zip в удобное место на вашем компьютере.
+Распакуйте полученный архив 'maz-master-main.zip' в удобное место на вашем компьютере.
 
 
 ## Запуск Docker Compose:
-Перейдите в директорию, куда вы разархивировали полученный архив, где находится файл docker-compose.yml, и с помощью консоли(PowerShell) выполните команды для запуска Docker Compose.
+Перейдите в директорию, куда вы разархивировали полученный архив, где находится файл docker-compose.yml, и с помощью консоли (PowerShell) выполните команды для запуска Docker Compose (убедитесь, что у вас уже запущен Docker Engine).
 
 ```
 docker-compose up --build
