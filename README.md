@@ -4,9 +4,8 @@
 Инструкция для запуска проекта:
 
 ## Установка Docker и Docker Compose:
-Убедитесь, что Docker и Docker Compose установлены на вашем компьютере. Инструкции по установке можно найти на официальных сайтах:
+Убедитесь, что Docker и Docker Compose установлены на вашем компьютере. Инструкцию по установке можно найти на официальном сайте:
     [Docker](https://www.docker.com/products/docker-desktop/)
-    [Docker Compose](https://docs.docker.com/compose/gettingstarted/)
 
 ## Распаковка архива:
 Распакуйте полученный архив `maz-master-main.zip` в удобное место на вашем компьютере.
