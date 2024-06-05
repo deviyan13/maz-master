@@ -5,7 +5,7 @@
 
 ## Установка Docker и Docker Compose:
 Убедитесь, что Docker и Docker Compose установлены на вашем компьютере. Инструкцию по установке можно найти на официальном сайте:
-    [Docker](https://www.docker.com/products/docker-desktop/) или [Docker on Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-20-04)
+    [Docker](https://www.docker.com/products/docker-desktop/) или [Docker on Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-20-04).
 
 ## Распаковка архива:
 Распакуйте полученный архив `maz-master-main.zip` в удобное место на вашем компьютере.
