@@ -24,3 +24,9 @@ docker-compose up --build
 Откройте веб-браузер и перейдите по следующим URL:
     Backend (Django): [http://localhost:8000](http://localhost:8000)
     Frontend (React): [http://localhost:3000](http://localhost:3000)
+
+При входе на http://localhost:3000 возможно возникновение ошибки с библиотекой axios. Для перезапуска билдинга проекта на docker-compose нажмите Ctrl+C для выключения запущенного проекта и пропишите заново:
+
+```
+docker-compose up --build
+```
